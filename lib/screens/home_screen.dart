@@ -19,7 +19,8 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Q', style: Theme.of(context).textTheme.headlineMedium),
+        title: Text('XenLauncher',
+            style: Theme.of(context).textTheme.headlineMedium),
         centerTitle: true,
         actions: [
           IconButton(
