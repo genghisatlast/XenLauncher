@@ -42,12 +42,12 @@ class ProfileScreen extends StatelessWidget {
                   SizedBox(height: 16),
                   ListTile(
                     leading: Icon(Icons.person),
-                    title: Text("Keyvan Arasteh"),
+                    title: Text("Blank User"),
                     subtitle: Text("Ad Soyad"),
                   ),
                   ListTile(
                     leading: Icon(Icons.email),
-                    title: Text("keyvan.arasteh@live.com"),
+                    title: Text("blankuser@blankmail.blank"),
                     subtitle: Text("E-posta"),
                   ),
                 ],
